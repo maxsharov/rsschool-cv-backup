@@ -38,6 +38,7 @@ function avg (array) {
 -------------
 
 **Job experience:**
+
 **Full Stack Web Developer June 2010 – January 2021**
 Vershyna.com.ua Kyiv, Ukraine
 • Built custom pixel-perfect ecommerce project based on a CMS
@@ -54,6 +55,7 @@ Freelance Kyiv, Ukraine
 -------------
 
 **Education:**
+
 [Sep. 2004 – June 2008]
 National Aviation University Kyiv, Ukraine 
 Bachelor’s degree in Automation and Computer-Integrated Technologies
