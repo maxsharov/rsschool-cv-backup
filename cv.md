@@ -16,9 +16,10 @@ apps.
 -------------
 
 **Tech skills:**
-**Technologies:** Javascript (ES6), TypeScript, PHP, SQL, HTML5, CSS3, JSON, XML
-**Frameworks:** Node.js, ReactJs, Vue.js, Bootstrap, SASS/SCSS
-**Other:** Linux, Git, Docker, VS Code
+
+**Technologies:** Javascript (ES6), TypeScript, PHP, SQL, HTML5, CSS3, JSON, XML<br>
+**Frameworks:** Node.js, ReactJs, Vue.js, Bootstrap, SASS/SCSS<br>
+**Other:** Linux, Git, Docker, VS Code<br>
 
 -------------
 
