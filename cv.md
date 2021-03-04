@@ -57,7 +57,9 @@ Freelance Kyiv, Ukraine
 **Education:**
 
 [Sep. 2004 – June 2008]
-National Aviation University Kyiv, Ukraine 
+
+National Aviation University Kyiv, Ukraine
+
 Bachelor’s degree in Automation and Computer-Integrated Technologies
 
 [Sep. 2008 – June 2009]
