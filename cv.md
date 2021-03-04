@@ -40,18 +40,18 @@ function avg (array) {
 
 **Job experience:**
 
-**Full Stack Web Developer June 2010 – January 2021**
-Vershyna.com.ua Kyiv, Ukraine
-• Built custom pixel-perfect ecommerce project based on a CMS
-• Maintained a variety of Backend and Frontend custom modules
-• Automated and optimized internal business processes
-• Optimized loading speed of the site
+**Full Stack Web Developer June 2010 – January 2021**<br>
+Vershyna.com.ua Kyiv, Ukraine<br>
+• Built custom pixel-perfect ecommerce project based on a CMS<br>
+• Maintained a variety of Backend and Frontend custom modules<br>
+• Automated and optimized internal business processes<br>
+• Optimized loading speed of the site<br>
 
-**Web Developer June 2009 – Dec. 2015**
-Freelance Kyiv, Ukraine
-• Working on a range of freelance ecommerce Opencart projects
-• Create pixel perfect cross-browser themes
-• Developing and maintaining custom purposed modules
+**Web Developer June 2009 – Dec. 2015**<br>
+Freelance Kyiv, Ukraine<br>
+• Working on a range of freelance ecommerce Opencart projects<br>
+• Create pixel perfect cross-browser themes<br>
+• Developing and maintaining custom purposed modules<br>
 
 -------------
 
